@@ -1,5 +1,5 @@
 # YouTube-video-downloader
-A simple Youtube video downloader in which we can enter the url of the youtube video and the directory in which you want the video to be downloaded
+A simple Youtube video downloader in which we can enter the url of the youtube video and the directory in which you want the video to be downloaded.
 This youtube video downloader is made using Tkinter and pytube libraries
 
 Screenshots of the project:
